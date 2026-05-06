@@ -11,11 +11,11 @@
 
 ## 🎯 Sobre mí
 
-Soy **Desarrollador Web Full Stack** apasionado por crear soluciones digitales eficientes y escalables. Graduado en:
-- 🎓 **Grado Medio**: Sistemas Microinformáticos y Redes
-- 🎓 **Grado Superior**: Desarrollo de Aplicaciones Web (DAW)
+Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**, con formación previa en **Sistemas Microinformáticos y Redes**.
 
-Me encanta aprender nuevas tecnologías, resolver problemas complejos y colaborar en proyectos que marquen la diferencia. Con experiencia en desarrollo tanto frontend como backend, siempre busco escribir código limpio, mantenible y de calidad.
+Tengo base en desarrollo web (**HTML, CSS, JavaScript**) y estoy empezando con **React**. Me interesa seguir creciendo en el desarrollo web y en la gestión de contenidos digitales.
+
+Me considero una persona implicada, con ganas de aprender y mejorar constantemente, buscando aplicar mis conocimientos en proyectos reales.
 
 ---
 
@@ -25,16 +25,15 @@ Me encanta aprender nuevas tecnologías, resolver problemas complejos y colabora
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React (básico)](https://img.shields.io/badge/React-B%C3%A1sico-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-B%C3%A1sico-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js (aprendiendo)](https://img.shields.io/badge/Node.js-Aprendiendo-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-B%C3%A1sico-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 💾 Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🔧 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,113 +42,71 @@ Me encanta aprender nuevas tecnologías, resolver problemas complejos y colabora
 
 ---
 
-## 📊 Estadísticas
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Proyectos-36+-0078D4?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Contribuciones-275+-28a745?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Experiencia-Full%20Stack-FF6B00?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## ⭐ Proyectos Destacados
 
 ### 1. **eTeam Manager** 🏆
-Una plataforma de gestión de equipos desarrollada en **PHP con MySQL**.
-- 🎯 Gestión completa de proyectos y tareas
-- 👥 Control de miembros del equipo
-- 📊 Dashboard informativo
-- 🔐 Sistema de autenticación seguro
+Aplicación web desarrollada en **PHP + MySQL**.
+- 🎯 Gestión de equipos y tareas
+- 👥 Control de usuarios
+- 📊 Panel informativo
 
-**[Ver proyecto →](https://github.com/Dpcrack22/eTeam-Manager)**
+👉 https://github.com/Dpcrack22/eTeam-Manager
+
+---
 
 ### 2. **ValorantRoutine** 🎮
-Aplicación de gestión de rutinas de juego desarrollada en **PHP**.
-- 📅 Planificación de sesiones de entrenamiento
-- 📈 Seguimiento de progreso
-- 🎯 Objetivos personalizables
+App para organizar rutinas de entrenamiento.
+- 📅 Planificación de sesiones
+- 🎯 Objetivos personalizados
 
-**[Ver proyecto →](https://github.com/Dpcrack22/ValorantRoutine)**
-
-### 3. **Proyecto Django + React** 🚀
-Stack moderno combinando **Django** (backend) y **React** (frontend).
-- ⚡ API REST con Django
-- 🎨 Interfaz interactiva con React
-- 🔄 Integración frontend-backend
-
-**[Ver proyecto →](https://github.com/Dpcrack22/projecto-django-react)**
+👉 https://github.com/Dpcrack22/ValorantRoutine
 
 ---
 
-## 📈 Mi Viaje en GitHub
+### 3. **Django + React** 🚀
+Proyecto combinando backend y frontend.
+- ⚡ API con Django
+- 🎨 Interfaz con React
+
+👉 https://github.com/Dpcrack22/projecto-django-react
+
+---
+
+## 📈 Mi progreso
 
 ```
-┌─────────────────────────────────────────┐
-│  Logros Desbloqueados                   │
-├─────────────────────────────────────────┤
-│ ⭐ Pull Shark x2     - ¡Experto en PRs!│
-│ ⚡ Quickdraw         - Rápido en acción│
-│ 🎯 YOLO             - ¡Sin miedo!      │
-│ 👑 Pro Account      - Acceso completo  │
-└─────────────────────────────────────────┘
+Aprendiendo cada día 🚀
+▰▰▰▰▰▰▱▱▱▱ 60%
 ```
 
 ---
 
-## 💡 Lo que me apasiona
+## 💡 Lo que me interesa
 
-✨ **Código limpio y bien documentado** - Creo en la importancia de escribir código que otros puedan entender
-
-🚀 **Aprendizaje continuo** - Siempre estoy explorando nuevas tecnologías y tendencias
-
-🤝 **Trabajo en equipo** - Me encanta colaborar y aprender de otros desarrolladores
-
-🎨 **Experiencia del usuario** - Objetivo crear interfaces intuitivas y atractivas
-
-⚡ **Eficiencia y rendimiento** - Optimización es clave en todo lo que hago
+✨ Desarrollo web  
+🎨 Experiencia de usuario  
+🤝 Trabajo en equipo  
+🚀 Aprendizaje continuo  
 
 ---
 
 ## 📚 Actualmente aprendiendo
 
-- 🎓 Profundizar en **React** y **Node.js**
-- 🎓 Arquitectura de software y patrones de diseño
-- 🎓 DevOps y deployment en la nube
-- 🎓 Testing y calidad de código
+- React
+- JavaScript avanzado
+- Buenas prácticas en desarrollo web
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Contacto
 
-📧 **Email:** [davidperera2006@gmail.com](mailto:davidperera2006@gmail.com)
-
-💼 **GitHub:** [@Dpcrack22](https://github.com/Dpcrack22)
-
-🔗 **Visita mis proyectos** y no dudes en dejar una ⭐ si te resultan útiles
-
----
-
-## 📝 Últimas actualizaciones
-
-- ✅ Actualización de perfil profesional
-- ✅ Documentación mejorada en proyectos
-- ✅ Nuevos proyectos en curso
+📧 davidperera2006@gmail.com  
+💻 https://github.com/Dpcrack22  
 
 ---
 
 <div align="center">
 
-**¿Tienes algún proyecto interesante? ¡Siempre estoy abierto a colaboraciones!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dpcrack22&color=blue)
+**Abierto a oportunidades y a seguir aprendiendo 🚀**
 
 </div>
