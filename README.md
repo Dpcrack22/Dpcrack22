@@ -1,112 +1,41 @@
-# 👋 Hola, soy David Perera
+# David Perera
 
-```
- ██████╗ ██████╗ ██████╗ ██████╗ █████╗  ██████╗██╗  ██╗██████╗ ██████╗ 
- ██╔══██╗██╔══██╗██╔════╝██╔════╝██╔══██╗██╔════╝██║ ██╔╝╚════██╗██╔══██╗
- ██║  ██║██████╔╝██║     ██║     ███████║██║     █████╔╝  █████╔╝██║  ██║
- ██║  ██║██╔═══╝ ██║     ██║     ██╔══██║██║     ██╔═██╗ ██╔═══╝ ██║  ██║
- ██████╔╝██║     ╚██████╗╚██████╗██║  ██║╚██████╗██║  ██╗███████╗██████╔╝
- ╚═════╝ ╚═╝      ╚═════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝ 
-```
+**Desarrollador web junior | Técnico Superior en DAW | Técnico en SMR**
 
-## 🎯 Sobre mí
+Desarrollo aplicaciones web y soluciones digitales con apoyo de inteligencia artificial. Tengo experiencia práctica con React, PHP, JavaScript, SQL, Docker y Git, además de herramientas como Codex y Claude. Busco una oportunidad junior en desarrollo web y también puedo aportar experiencia en soporte IT.
 
-Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**, con formación previa en **Sistemas Microinformáticos y Redes**.
+## Experiencia reciente
 
-Tengo base en desarrollo web (**HTML, CSS, JavaScript**) y estoy empezando con **React**. Me interesa seguir creciendo en el desarrollo web y en la gestión de contenidos digitales.
+**FutbolLab - Desarrollador web y creador de contenido con IA (prácticas)**  
+*Junio de 2026 - septiembre de 2026*
 
-Me considero una persona implicada, con ganas de aprender y mejorar constantemente, buscando aplicar mis conocimientos en proyectos reales.
+- Desarrollo y publicación de aplicaciones web en el servidor de la empresa.
+- Creación de imágenes y contenidos mediante herramientas de IA.
+- Diseño y optimización de prompts para mejorar la calidad de los resultados.
+- Trabajo con React, Docker, bases de datos SQL, Codex y Claude.
+- Participación en una aplicación web para gestionar la asistencia del alumnado.
 
----
+## Tecnologías
 
-## 🛠️ Stack Tecnológico
+`HTML` `CSS` `JavaScript` `React` `PHP` `Python` `Django` `MySQL` `SQL` `Docker` `Git` `GitHub`
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React (básico)](https://img.shields.io/badge/React-B%C3%A1sico-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+## Proyectos destacados
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-B%C3%A1sico-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js (aprendiendo)](https://img.shields.io/badge/Node.js-Aprendiendo-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-B%C3%A1sico-092E20?style=for-the-badge&logo=django&logoColor=white)
+### [eTeam Manager](https://github.com/Dpcrack22/eTeam-Manager)
+Plataforma de gestión de equipos con calendario, scrims, tablero Kanban y distintos roles. Desarrollada con PHP y MySQL.
 
-### 💾 Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### [MarvelType / CyberType](https://github.com/Dpcrack22/Projecto-CyberType)
+Juego web de mecanografía con niveles, puntuaciones y clasificación, desarrollado con HTML, CSS, JavaScript y PHP. [Ver demostración](https://cibertype2.ieti.site/Projecto-CyberType/).
 
-### 🔧 Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### [ValorantRoutine](https://github.com/Dpcrack22/ValorantRoutine)
+Aplicación web para planificar rutinas y registrar sesiones de entrenamiento, desarrollada con PHP y JavaScript.
 
----
+## Formación
 
-## ⭐ Proyectos Destacados
+- Técnico Superior en Desarrollo de Aplicaciones Web, Institut Esteve Terradas i Illa (2024-2026).
+- Técnico en Sistemas Microinformáticos y Redes, Institut Daniel Blanxart (2022-2024).
 
-### 1. **eTeam Manager** 🏆
-Aplicación web desarrollada en **PHP + MySQL**.
-- 🎯 Gestión de equipos y tareas
-- 👥 Control de usuarios
-- 📊 Panel informativo
+## Contacto
 
-👉 https://github.com/Dpcrack22/eTeam-Manager
-
----
-
-### 2. **ValorantRoutine** 🎮
-App para organizar rutinas de entrenamiento.
-- 📅 Planificación de sesiones
-- 🎯 Objetivos personalizados
-
-👉 https://github.com/Dpcrack22/ValorantRoutine
-
----
-
-### 3. **Django + React** 🚀
-Proyecto combinando backend y frontend.
-- ⚡ API con Django
-- 🎨 Interfaz con React
-
-👉 https://github.com/Dpcrack22/projecto-django-react
-
----
-
-## 📈 Mi progreso
-
-```
-Aprendiendo cada día 🚀
-▰▰▰▰▰▰▱▱▱▱ 60%
-```
-
----
-
-## 💡 Lo que me interesa
-
-✨ Desarrollo web  
-🎨 Experiencia de usuario  
-🤝 Trabajo en equipo  
-🚀 Aprendizaje continuo  
-
----
-
-## 📚 Actualmente aprendiendo
-
-- React
-- JavaScript avanzado
-- Buenas prácticas en desarrollo web
-
----
-
-## 🌐 Contacto
-
-📧 davidperera2006@gmail.com  
-💻 https://github.com/Dpcrack22  
-
----
-
-<div align="center">
-
-**Abierto a oportunidades y a seguir aprendiendo 🚀**
-
-</div>
+- Correo: [davidperera2006@gmail.com](mailto:davidperera2006@gmail.com)
+- LinkedIn: [David Perera González](https://www.linkedin.com/in/david-perera-gonzalez-2658a6380/)
